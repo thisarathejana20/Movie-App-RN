@@ -1,7 +1,5 @@
 import React from "react";
 import { Tabs } from "expo-router";
-import { Image, ImageBackground, Text } from "react-native";
-import { images } from "@/constants/images";
 import { icons } from "@/constants/icons";
 import TabIcon from "@/components/TabIcon";
 
